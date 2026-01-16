@@ -1,5 +1,5 @@
 # Instacart Grocery Basket Analysis
 
-<img src="D:\20-CF\2-Data_Immersion\5-BD\7\Logo.png" width="100">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">
 
 an online grocery store that operates through an app
