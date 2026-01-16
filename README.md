@@ -11,15 +11,15 @@ Instacard is an online store that operates an app. Instacart already has very go
 
 The dataset comprises of information on the following parameters:
 
-> > orders
-> > products
-> > departments
-> >
+- orders
+- products
+- departments
+
 
 # Tools
 
 For the project, the following python libraries were used.
 
-> > pandas - for data anaylsis
-> > seaborn for - for valuation 
+- pandas - for data anaylsis
+- seaborn for - for valuation 
 
