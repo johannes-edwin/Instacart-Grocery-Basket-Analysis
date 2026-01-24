@@ -36,5 +36,7 @@ For the project, the following Python libraries were used.
 
 [Instacard Department Popularity by Order Count](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartDepartmentPopularitybyOrderCount/Sheet1?publish=yes)
 
+[Instacard Distribution of Customer Loyalty Segments](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartDistributionofCustomerLoyaltySegments/Sheet1?publish=yes)
+
 
 
