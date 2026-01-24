@@ -40,3 +40,9 @@ For the project, the following Python libraries were used.
 
 [Instacard Ordering Frequency by Loyalty Segment](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartOrderingFrequencybyLoyaltySegment/Sheet1?publish=yes)
 
+[Instacard Regional Sales and Spending Analysis](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartRegionalSalesandSpendingAnalysis/Sheet1?publish=yes)
+
+
+
+
+
