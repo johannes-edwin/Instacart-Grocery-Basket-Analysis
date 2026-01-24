@@ -42,6 +42,7 @@ For the project, the following Python libraries were used.
 
 [Instacard Regional Sales and Spending Analysis](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartRegionalSalesandSpendingAnalysis/Sheet1?publish=yes)
 
+[Instacard Impact of Age and Family on Ordering Habits](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartImpactofAgeandFamilyStatusonOrderingHabits/Sheet1?publish=yes)
 
 
 
