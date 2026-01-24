@@ -34,7 +34,7 @@ For the project, the following Python libraries were used.
 
 [Instacard Product Volume by Price Range](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartProductVolumebyPriceRange/Sheet1?publish=yes)
 
-
+[Instacard Department Popularity by Order Count](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartDepartmentPopularitybyOrderCount/Sheet1?publish=yes)
 
 
 
