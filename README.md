@@ -44,6 +44,7 @@ For the project, the following Python libraries were used.
 
 [Instacard Impact of Age and Family on Ordering Habits](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartImpactofAgeandFamilyStatusonOrderingHabits/Sheet1?publish=yes)
 
+[Instacard Customer Demographic Breakdown: Age Profile by Income Level](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartCustomerDemographicBreakdownAgeProfilebyIncomeLevel/Sheet1?publish=yes)
 
 
 
