@@ -32,6 +32,8 @@ For the project, the following Python libraries were used.
 
 [Instacard Busiest Hour of The Day](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartRevenueDistributionbyHour/Sheet1?publish=yes)
 
+[Instacard Product Volume by Price Range](https://public.tableau.com/app/profile/johannes.wuisan/viz/InstacartProductVolumebyPriceRange/Sheet1?publish=yes)
+
 
 
 
